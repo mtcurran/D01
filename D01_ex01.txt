@@ -1,5 +1,3 @@
 # D01_ex01
-Name: Daniel Griffin
-Favorite Color: blue
 Name: Max Curran
 Favorite Color: cobalt
